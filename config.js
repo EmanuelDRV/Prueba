@@ -12,8 +12,8 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['59822228462', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['59174578253', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['59174578253', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
   ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾', true],
   ['59894808483'],
   ['584125778026'],
@@ -101,16 +101,16 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['5214531106422', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5491173694367', 'Prueba', 1]] 
+['59174578253', 'Gata Dios 💻', 1], 
+['59174578253', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['59174578253', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['59174578253', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['59174578253', 'Prueba', 1]] 
 
-global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.mail = 'clauu.good1@gmail.com' //agrega tú correo
+global.desc = 'TODOS SABEMOS QUE DENNIS SE LA COME ENTERA 🏳️‍🌈' //agrega una descripción corta
+global.desc2 = 'BOT-YP' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.country = '🇧🇴🇧🇴' //agrega tú país ejemplo: 🇪🇨
 
 global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
 global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
@@ -121,11 +121,11 @@ global.vs = '1.4.9'
 global.vsJB = '2.0'
 
 global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
+global.yt = 'https://youtube.com/@yoperyt'
+global.yt2 = 'https://youtube.com/@yoperyt'
+global.ig = 'https://instagram.com/yotsuba.peruana?igshid=YmMyMTA2M2Y='
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.fb = 'xnxx.com'
 
 global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
 global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
@@ -134,11 +134,11 @@ global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
 global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
 global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
 global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
+global.nnnttt2 = 'https://chat. whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
 global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 8 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.com'
 global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
